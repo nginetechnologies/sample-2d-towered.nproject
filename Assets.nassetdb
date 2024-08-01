@@ -1,0 +1,33 @@
+{
+    "0fa6c65d-1882-7933-9b17-b5ccbbbb08f8": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
+    "2861bcf6-ccb0-5c3c-ad1c-0ca084657aa4": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
+        "path": "Assets/2D Towered.scene.nasset"
+    },
+    "687c3da8-c2a1-73ea-b94f-b5881a7c2b09": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/2D_Towered_Thumb.tex.nasset"
+    },
+    "9c82c5c2-dea4-d0ff-4d4e-033d652ddc51": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Top Down.scene.nasset",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ]
+    },
+    "a24957c6-2d33-4f15-beb9-89869573e0b2": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "name": "2D Towered",
+        "thumbnail": "687c3da8-c2a1-73ea-b94f-b5881a7c2b09",
+        "tags": [
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
+        ]
+    },
+    "guid": "0fa6c65d-1882-7933-9b17-b5ccbbbb08f8"
+}
